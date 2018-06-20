@@ -1,0 +1,38 @@
+ipconfig/all                              all network info
+systeminfo                              maching info
+ping  *url                                  website ip address
+color a                                      change the color of cmd
+color g                                      list of colors
+help                                           list of commands
+tree                                            list folders and directories
+dir		         list contents of folders
+tasklist		         list of programs running
+driverquery	         get details of drivers installed
+
+change background in properies directory
+press F7 for history
+press F11 for fullscreen
+cls                                              clears 
+
+net user  (the user name you want) space *       #only as Admin                      list of your users
+net view                                                                                  view computers on your network
+ tracert                                                                                     trace ip address
+
+tab  to search
+direction arrows to scroll
+
+
+bat files is a script that runs. 
+
+@echo off
+echo Hello World
+pause
+cls
+pause
+
+
+
+
+
+
+
